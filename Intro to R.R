@@ -1,5 +1,10 @@
 # R script to accompany Intro to R
-# Copy for RKyleReiss 2019
+#
+# Written by Kyle Reiss
+# 
+# Copy for KyleReiss 2019
+#
+# Customized by KyleReiss2019
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
